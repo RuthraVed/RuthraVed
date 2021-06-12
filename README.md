@@ -1,4 +1,4 @@
-- 👋 Hi Ruthra Ved is my alias on internet.
+- 👋 Hi I'm Abhishek.
 - 👀 I’m interested in web devlopment, creative design and whatever I find fun. 
 - 🌱 I’m currently exploring django web and REST framework
 - 💞️ I’m looking to collaborate on open source projects or paid projects.
