@@ -3,6 +3,7 @@
 - 🌱 I’m currently exploring django web and REST framework
 - 💞️ I’m looking to collaborate on open source projects or paid projects.
 - 📫 Reach me by ruthraved@gmail.com
+- Find me on Linkedin https://www.linkedin.com/in/devabhis/
 
 <!---
 RuthraVed/RuthraVed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
